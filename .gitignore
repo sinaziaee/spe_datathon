@@ -1,0 +1,5 @@
+__pycache__/
+WorldCarbonPricingDatabase/
+**.csv
+**.xlsx
+catboost_info/
