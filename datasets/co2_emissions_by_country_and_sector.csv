@@ -1,0 +1,79 @@
+country,sector,value
+Brazil,Domestic Aviation,40.45235054
+Brazil,Ground Transport,717.5100076
+Brazil,Industry,562.345482
+Brazil,International Aviation,19.80346285
+Brazil,Power,334.606895
+Brazil,Residential,161.7566339
+China,Domestic Aviation,232.3311201
+China,Ground Transport,3897.655741
+China,Industry,18642.33264
+China,International Aviation,69.2984897
+China,Power,21550.02007
+China,Residential,3611.43332
+EU27 & UK,Domestic Aviation,56.84414814
+EU27 & UK,Ground Transport,3855.05792
+EU27 & UK,Industry,2799.221819
+EU27 & UK,International Aviation,597.9819087
+EU27 & UK,Power,3870.40843
+EU27 & UK,Residential,2824.588609
+France,Domestic Aviation,8.0050977204
+France,Ground Transport,508.618472
+France,Industry,258.345005
+France,International Aviation,65.79304135
+France,Power,130.971919
+France,Residential,356.7577976
+Germany,Domestic Aviation,5.711941606
+Germany,Ground Transport,662.245309
+Germany,Industry,523.1576922
+Germany,International Aviation,92.0997709
+Germany,Power,1034.528067
+Germany,Residential,633.2758949
+India,Domestic Aviation,25.6738127346
+India,Ground Transport,1238.634229
+India,Industry,3260.301565
+India,International Aviation,39.19354307
+India,Power,5665.12137
+India,Residential,879.034805
+Italy,Domestic Aviation,7.053898197
+Italy,Ground Transport,393.2808765
+Italy,Industry,234.6702661
+Italy,International Aviation,42.79743548
+Italy,Power,405.658248
+Italy,Residential,339.6441622
+Japan,Domestic Aviation,35.12060541
+Japan,Ground Transport,772.245182
+Japan,Industry,1120.051613
+Japan,International Aviation,51.68657361
+Japan,Power,2248.434688
+Japan,Residential,494.991747
+ROW,Domestic Aviation,252.1682078
+ROW,Ground Transport,9414.66896
+ROW,Industry,15824.44436
+ROW,International Aviation,843.4261287
+ROW,Power,15502.74173
+ROW,Residential,4555.16909
+Russia,Domestic Aviation,70.8678587
+Russia,Ground Transport,1009.091917
+Russia,Industry,1291.872144
+Russia,International Aviation,32.80652652
+Russia,Power,4648.82412
+Russia,Residential,787.584337
+Spain,Domestic Aviation,21.354594722
+Spain,Ground Transport,369.4564426
+Spain,Industry,266.8892495
+Spain,International Aviation,75.13000713
+Spain,Power,203.514245
+Spain,Residential,163.3879964
+UK,Domestic Aviation,7.29250404
+UK,Ground Transport,502.041377
+UK,Industry,279.9878941
+UK,International Aviation,108.63188272
+UK,Power,307.535325
+UK,Residential,399.807604
+US,Domestic Aviation,673.14204
+US,Ground Transport,6922.64004
+US,Industry,4380.39967
+US,International Aviation,274.2417515
+US,Power,6792.07751
+US,Residential,2589.319333
