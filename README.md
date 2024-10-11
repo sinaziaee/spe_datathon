@@ -8,7 +8,6 @@ Carbon Capture, Utilization, and Storage (CCUS) is a vital technology for reduci
 ![Global CO2 Emission](./figs/global_carbon_emission.jpg)
 ![Global Heatmap of CO2 Emission from fossil fuels](./figs/world_heatmap.png)
 ![Pearson Correlation Number of Projects vs Policy Indicator](./figs/policy_vs_project_count.png)
-![Global CO2 Emission](./figs/global_carbon_emission.jpg)
 ![carbon tax rate vs CCUS project count](./figs/carbon_tax_rate_vs_CCUS_project_count.png)
 ![Global CO2 Emission Prediction](./figs/emission_prediction/world.png)
 ![Canada CO2 Emission Prediction](./figs/emission_prediction/canada.png)
